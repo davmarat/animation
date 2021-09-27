@@ -1,22 +1,22 @@
 body {
-  background-color: aqua;
+  background-color: rgb(3, 71, 71);
   background-repeat: no-repeat;
 }
 
 .collapse {
-  width: 40%;
-  margin: 30px auto;
+  width: 30%;
+  margin: 40px auto;
   background-color: white;
-  border: 1px solid grey;
+  border: 5px solid grey;
   border-radius: 10px;
   padding: 20px;
 }
 
 .collapse__button {
   display: block;
-  background-color: #b3bd2d;
+  background-color: #0c6413;
   color: white;
-  width: 200px;
+  width: 150px;
   box-sizing: border-box;
   height: 50px;
   text-align: center;
