@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/1wm4kdcwpypj5hta?svg=true)](https://ci.appveyor.com/project/davmarat/animation)
